@@ -1,2 +1,12 @@
 __pycache__
-DeepLearningPython/
+expand_mnist.py
+mnist_average_darkness.py
+mnist_loader.py
+mnist_svm.py
+mnist.pkl.gz
+expand_mnist.py
+MyNetwork
+network.py
+network2.py
+network3.py
+test.py
